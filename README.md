@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Doctrine 2 for Laravel
 
 [![Latest Stable Version](https://poser.pugx.org/mitchellvanw/laravel-doctrine/version.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
